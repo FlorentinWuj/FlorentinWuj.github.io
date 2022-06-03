@@ -1,4 +1,4 @@
-baseURL = 'https://chevaltin.github.io/Portfolio/'
+baseURL = 'https://FlorentinWuj.github.io/Portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'iutdelens'
